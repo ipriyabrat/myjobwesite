@@ -1,0 +1,5 @@
+playwright
+jinja2
+requests
+groq
+python-dotenv
