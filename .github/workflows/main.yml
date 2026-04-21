@@ -2,7 +2,7 @@ name: Daily Current Affairs
 
 on:
   schedule:
-    - cron: '0 6 * * *'    # 6:00 UTC = 11:30 AM IST (UTC+5:30)
+    - cron: '30 15 * * 1-6'  # 15:30 UTC = 9:00 PM IST (UTC+5:30), Mon–Sat
   workflow_dispatch:        # allows manual trigger from GitHub Actions tab
 
 jobs:
