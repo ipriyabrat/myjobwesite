@@ -204,7 +204,7 @@ def build_telegram_message(results: list, today: date) -> str:
 
     lines += [
         "━━━━━━━━━━━━━━━━━━━━━━━━",
-        "🔔 <b>Subscribe:</b> @odishajoblab",
+        "🔔 <b>Subscribe:</b> @jobnewsinodisha",
         "📲 <b>More updates daily — Stay ahead!</b>",
         "━━━━━━━━━━━━━━━━━━━━━━━━",
     ]
